@@ -952,7 +952,6 @@ youle55.com
 /soft_mid_
 /soqidian/
 /svnad/$subdocument,image,object,object-subrequest
-/tan/
 /tan1/
 /tanxssp/
 /tc.js|$script
